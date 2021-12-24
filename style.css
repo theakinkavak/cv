@@ -11,4 +11,27 @@ hr {
 
 h1, h3 {
     color: #66bfbf;
+    text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+.education-div, ol {
+  display: table;
+  margin: 0 auto;
+}
+
+.bottom-div {
+  text-align: center;
+  padding: 15px;
+}
+
+.hobbies, .contact-me {
+  margin: 5px
+}
+
+.details {
+  text-align: center;
 }
