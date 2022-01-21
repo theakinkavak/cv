@@ -1,4 +1,4 @@
 # cv
-#My very firs website
+#My very first website
 
 https://theakinkavak.github.io/cv/
